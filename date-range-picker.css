@@ -1,9 +1,13 @@
 :host {
   --color-bg-default: #3f51b5;
-  --color-fg-primary: #ffc107;
+  --color-fg-primary: #BC2C20;
   --color-fg-default: #fff;
   --color-fg-accent: #ff9800;
-  --color-bg-inrange: #333;
+  --color-bg-inrange: #f5c3a2;
   --day-width: 35px;
   --day-height: 30px;
 }
+.container{
+border-radius:12px;
+}
+
